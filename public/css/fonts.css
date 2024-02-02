@@ -1,0 +1,53 @@
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 300;
+    src: url(/fonts/gilroy-light-webfont.eot?7243de7e7e48e3f070be05241ae6ba71);
+    src: url(/fonts/gilroy-light-webfont.eot?7243de7e7e48e3f070be05241ae6ba71) format("embedded-opentype"),url(/fonts/gilroy-light-webfont.woff2?e67fc0bf0c5c8fc6619d368f655b028c) format("woff2"),url(/fonts/gilroy-light-webfont.woff?9fa0ff4ed0700fc2b70a660db3fa339b) format("woff"),url(/fonts/gilroy-light-webfont.ttf?c6f17bd899526d108575c5bbb99cb7cc) format("truetype"),url(/fonts/gilroy-light-webfont.svg?3729086373d4e272a4b4c86d26855a63) format("svg")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/gilroy-regular-webfont.eot?53e9668201d87f3a03192ef692f130e5);
+    src: url(/fonts/gilroy-regular-webfont.eot?53e9668201d87f3a03192ef692f130e5) format("embedded-opentype"),url(/fonts/gilroy-regular-webfont.woff2?a87cd02c25853b9f5b215c73b901913f) format("woff2"),url(/fonts/gilroy-regular-webfont.woff?f51c30b67e2ab5759ab11edd1d828128) format("woff"),url(/fonts/gilroy-regular-webfont.ttf?7ca151c3d86eed9ebdd003028069ae14) format("truetype"),url(/fonts/gilroy-regular-webfont.svg?367db117b0aea6a562d53172dc5b9a92) format("svg")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/gilroy-medium-webfont.eot?7bfd2383e5775c5614c8a09a38445699);
+    src: url(/fonts/gilroy-medium-webfont.eot?7bfd2383e5775c5614c8a09a38445699) format("embedded-opentype"),url(/fonts/gilroy-medium-webfont.woff2?8fdf4f4cc3a9aefc6bbc27a72cb36b8e) format("woff2"),url(/fonts/gilroy-medium-webfont.woff?a929971655816d07c100fe07fe5694bf) format("woff"),url(/fonts/gilroy-medium-webfont.ttf?68f0fcb583b03d8adef8d8a4bf3d22dd) format("truetype"),url(/fonts/gilroy-medium-webfont.svg?535452e50038b796c750f718685c7c89) format("svg")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    src: url(/fonts/gilroy-semibold-webfont.eot?0ae8ee52ae741604add7bee6e230f37a);
+    src: url(/fonts/gilroy-semibold-webfont.eot?0ae8ee52ae741604add7bee6e230f37a) format("embedded-opentype"),url(/fonts/gilroy-semibold-webfont.woff2?6b058b6693986620150fb893acc536cd) format("woff2"),url(/fonts/gilroy-semibold-webfont.woff?acb0c46932f177b8a576133178afb8a8) format("woff"),url(/fonts/gilroy-semibold-webfont.ttf?87cbfefeef01e9934c1e426c5ffd32f3) format("truetype"),url(/fonts/gilroy-semibold-webfont.svg?6fd0aa8a3bea8dad6517244ef97ddacd) format("svg")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/fonts/gilroy-bold-webfont.eot?b2166326b39d30c2b2b76fe2914c5b29);
+    src: url(/fonts/gilroy-bold-webfont.eot?b2166326b39d30c2b2b76fe2914c5b29) format("embedded-opentype"),url(/fonts/gilroy-bold-webfont.woff2?a4ba99a8c039954e53a9cca706818d05) format("woff2"),url(/fonts/gilroy-bold-webfont.woff?1be9ef72fc22d12c944488aca67b18f5) format("woff"),url(/fonts/gilroy-bold-webfont.ttf?8d4914d1b162ee510ede0feec23c3729) format("truetype"),url(/fonts/gilroy-bold-webfont.svg?f4feaf5585ff3fa0da11c8adc3ca6a55) format("svg")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 800;
+    src: url(/fonts/gilroy-black-webfont.eot?0c5d47c81a75c697804cf1dd3fe4b233);
+    src: url(/fonts/gilroy-black-webfont.eot?0c5d47c81a75c697804cf1dd3fe4b233) format("embedded-opentype"),url(/fonts/gilroy-black-webfont.woff2?376e9fb63314af79b42f166221bd257f) format("woff2"),url(/fonts/gilroy-black-webfont.woff?b76f7cfc171d945b6dbb68991ba3d82b) format("woff"),url(/fonts/gilroy-black-webfont.ttf?8ea087454ce7d549a88fbc86e14bbe06) format("truetype"),url(/fonts/gilroy-black-webfont.svg?f7e5370965cd958eb311004816ab7be7) format("svg")
+}
